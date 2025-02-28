@@ -61,7 +61,7 @@
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/bytes": "^5.7.0",
     "@ethersproject/contracts": "^5.7.0",
-    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/providers": "^5.8.0",
     "@polkadot/types": "^12.2.1",
     "@polkadot/util-crypto": "^12.6.2",
     "abitype": "^1.0.4",
