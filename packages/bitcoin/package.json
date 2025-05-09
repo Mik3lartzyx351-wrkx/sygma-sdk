@@ -60,7 +60,7 @@
     "typescript": "5.0.4"
   },
   "dependencies": {
-    "@buildwithsygma/core": "workspace:^",
+    "@buildwithsygma/core": "1.0.0",
     "bip32": "4.0.0",
     "bip39": "3.1.0",
     "bitcoinjs-lib": "^6.1.6"
