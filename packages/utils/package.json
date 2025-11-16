@@ -57,9 +57,9 @@
   },
   "dependencies": {
     "@buildwithsygma/bitcoin": "workspace:^",
-    "@buildwithsygma/core": "workspace:^",
+    "@buildwithsygma/core": "1.0.0",
     "@buildwithsygma/evm": "workspace:^",
-    "@buildwithsygma/substrate": "workspace:^",
+    "@buildwithsygma/substrate": "1.0.1",
     "@buildwithsygma/sygma-contracts": "2.6.1",
     "@polkadot/api": "^12.2.1",
     "@polkadot/rpc-provider": "^12.2.1",
